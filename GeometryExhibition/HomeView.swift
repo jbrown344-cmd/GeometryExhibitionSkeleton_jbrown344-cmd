@@ -37,7 +37,7 @@ struct HomeView: View {
                 }
             }
             .padding()
-            .navigationTitle("Geometry Exhibition Demo")
+            .navigationTitle("The geometry lab rats")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
